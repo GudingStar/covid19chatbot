@@ -9,7 +9,7 @@ The project report along with the all the tasks I did can be found inside projec
 There are two main parts of the project:
 
 - RASA backend (Python)
-- Chatbot UI (Angular)
+- Chatbot UI (PHP, Html)
 
 The respective guides can be found inside their respective directories of the project.
 
